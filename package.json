@@ -1,0 +1,32 @@
+{
+  "name": "weather",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.5",
+    "react-router-dom": "^4.1.1",
+    "react-scripts": "1.0.10",
+    "redux": "^3.7.1",
+    "redux-thunk": "^2.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "https://api.seniverse.com",
+  "description": "使用React全家桶开发的天气Demo",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2oo/weather.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/2oo/weather/issues"
+  },
+  "homepage": "https://github.com/2oo/weather#readme"
+}
